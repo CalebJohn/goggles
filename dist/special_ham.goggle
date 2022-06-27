@@ -3,6 +3,7 @@
 ! public: true
 ! author: Caleb
 ! avatar: #cca1eb
+! license: CC0 1.0
 
 ! Language Specific sites
 $site=docs.python.org,boost=5
