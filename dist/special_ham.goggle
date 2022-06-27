@@ -7,6 +7,7 @@
 
 ! Language Specific sites
 $site=docs.python.org,boost=5
+/python/$downrank=3,site=w3schools.com
 
 ! Pinterest !!!
 ! https://raw.githubusercontent.com/brave/goggles-quickstart/main/goggles/no_pinterest.goggle
