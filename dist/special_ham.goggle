@@ -232,3 +232,6 @@ $discard,site=pythonrepo.com
 $discard,site=reposhub.com
 $discard,site=wenyanet.com
 ! END Copycats removal !!!
+
+! w3schools copycats
+$discard,site=w3resource.com
